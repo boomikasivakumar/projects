@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Virat18ajith04/Portfolio/static/css/main.eb42d319.chunk.css",
+    "main.js": "/Virat18ajith04/Portfolio/static/js/main.19b288a8.chunk.js",
+    "main.js.map": "/Virat18ajith04/Portfolio/static/js/main.19b288a8.chunk.js.map",
+    "runtime-main.js": "/Virat18ajith04/Portfolio/static/js/runtime-main.c02349ab.js",
+    "runtime-main.js.map": "/Virat18ajith04/Portfolio/static/js/runtime-main.c02349ab.js.map",
+    "static/js/2.e884f133.chunk.js": "/Virat18ajith04/Portfolio/static/js/2.e884f133.chunk.js",
+    "static/js/2.e884f133.chunk.js.map": "/Virat18ajith04/Portfolio/static/js/2.e884f133.chunk.js.map",
+    "index.html": "/Virat18ajith04/Portfolio/index.html",
+    "static/css/main.eb42d319.chunk.css.map": "/Virat18ajith04/Portfolio/static/css/main.eb42d319.chunk.css.map",
+    "static/js/2.e884f133.chunk.js.LICENSE.txt": "/Virat18ajith04/Portfolio/static/js/2.e884f133.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-4.997c463d.svg": "/Virat18ajith04/Portfolio/static/media/bootstrap-4.997c463d.svg",
+    "static/media/django.0779fca2.svg": "/Virat18ajith04/Portfolio/static/media/django.0779fca2.svg",
+    "static/media/express.75fff9be.svg": "/Virat18ajith04/Portfolio/static/media/express.75fff9be.svg",
+    "static/media/html-5.821ba738.svg": "/Virat18ajith04/Portfolio/static/media/html-5.821ba738.svg",
+    "static/media/nodejs.52cbf9a8.svg": "/Virat18ajith04/Portfolio/static/media/nodejs.52cbf9a8.svg",
+    "static/media/profile1.db2e6551.jpeg": "/Virat18ajith04/Portfolio/static/media/profile1.db2e6551.jpeg",
+    "static/media/react.add74742.svg": "/Virat18ajith04/Portfolio/static/media/react.add74742.svg",
+    "static/media/react.jpg": "/Virat18ajith04/Portfolio/static/media/react.d292ca0a.jpg",
+    "static/media/slide1.14619b04.webp": "/Virat18ajith04/Portfolio/static/media/slide1.14619b04.webp",
+    "static/media/slide2.d58e7971.webp": "/Virat18ajith04/Portfolio/static/media/slide2.d58e7971.webp",
+    "static/media/slide3.ea32b5ab.webp": "/Virat18ajith04/Portfolio/static/media/slide3.ea32b5ab.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c02349ab.js",
+    "static/js/2.e884f133.chunk.js",
+    "static/css/main.eb42d319.chunk.css",
+    "static/js/main.19b288a8.chunk.js"
+  ]
+}
